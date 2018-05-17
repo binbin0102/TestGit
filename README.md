@@ -1,2 +1,4 @@
 # TestGit
-Git operation test demo project
+
+## This is learning git project.
+
